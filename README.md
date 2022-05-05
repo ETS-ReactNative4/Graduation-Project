@@ -1,4 +1,9 @@
 # Graduation-Project
+
+##It helps blind and visually impaired people know what exists in their surroundings and imagine what things look like.
+
+
+
 #### Image captioning has many advantages in almost every complex area of Artificial
 #### Intelligence. The main use case of our model is to help visually impaired to understand the
 #### environment and made them easy to act according to the environment. As, this is a complex

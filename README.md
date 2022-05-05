@@ -13,6 +13,7 @@ D- start build the screens of the application
 
 ![1](https://user-images.githubusercontent.com/42701893/166873869-2ad9ed26-6819-426e-a0d9-90ddeca8b8a6.PNG)
 
+![2](https://user-images.githubusercontent.com/42701893/166874356-24024c19-f404-4054-87a2-3905542f936d.PNG)
 
 
 

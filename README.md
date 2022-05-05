@@ -1,6 +1,6 @@
 # Graduation-Project
 
-##It helps blind and visually impaired people know what exists in their surroundings and imagine what things look like.
+## It helps blind and visually impaired people know what exists in their surroundings and imagine what things look like.
 
 
 
